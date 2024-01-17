@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "name": "OLA S1 Pro",
+      "cat": "Two Wheeler",
+      "date": "2023-09-08T18:30:00.000Z",
+      "freshness": "Brand New",
+      "desc": "For the shake of nature, one should use electric vehicles...",
+      "price": "112000",
+      "id": 4
+    },
+    {
+      "name": "Fastrack FR1",
+      "cat": "Smartwatch ",
+      "date": "2023-09-04T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "desc": "Smartwatch with 1.39 inch display",
+      "price": "1699",
+      "id": 5
+    },
+    {
+      "name": "Dell Inspiron",
+      "cat": "Laptop",
+      "date": "2023-08-31T18:30:00.000Z",
+      "freshness": "Brand New",
+      "desc": "Budget Friendly Laptop of this year",
+      "price": "45000",
+      "id": 6
+    },
+    {
+      "name": "Realme 7",
+      "cat": "Mobile",
+      "date": "2023-09-04T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "desc": "Smartphone with 6.5 inches display",
+      "price": "17000",
+      "id": 7
+    },
+    {
+      "name": "OnePlus Buds",
+      "cat": "Earbuds",
+      "date": "2023-08-31T18:30:00.000Z",
+      "freshness": "Brand New",
+      "desc": "Available in White, Gray, Black",
+      "price": "2699",
+      "id": 8
+    },
+    {
+      "name": "One Plus Nord",
+      "cat": "Mobile",
+      "date": "2023-08-31T18:30:00.000Z",
+      "freshness": "Brand New",
+      "desc": "Smartphone with Amoled Display",
+      "price": "37000",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

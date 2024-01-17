@@ -1,0 +1,28 @@
+<mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-subtitle>{{dataObj.prodCat}}</mat-card-subtitle>
+      <mat-card-title>{{dataObj.prodName}}</mat-card-title>
+    </mat-card-header>
+   <mat-card-header>
+    <mat-card-subtitle>Date</mat-card-subtitle>
+    <mat-card-title>{{dataObj.date |date}}</mat-card-title>
+   </mat-card-header>
+   <mat-card-header>
+    <mat-card-subtitle>Description</mat-card-subtitle>
+    <mat-card-title>{{dataObj.desc}}</mat-card-title>
+   </mat-card-header>
+   <mat-card-header>
+    <mat-card-subtitle>Comment</mat-card-subtitle>
+    <mat-card-title>{{dataObj.comment}}</mat-card-title>
+   </mat-card-header>
+   <mat-card-header style="margin-bottom: 6px;">
+    <mat-card-subtitle>Price</mat-card-subtitle>
+    <mat-card-title>{{dataObj.price | currency:'INR'}}</mat-card-title>
+    <mat-divider></mat-divider>
+   </mat-card-header>
+   <mat-divider></mat-divider>
+   <div mat-dialog-actions align="end">
+    <button mat-raised-button mat-dialog-close color="accent">Go Back</button>
+  </div>
+  </mat-card>
+  
